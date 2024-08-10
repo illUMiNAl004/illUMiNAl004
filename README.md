@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 # About Me
 
 Welcome to my personal page! I'm **Tanishq Saria**, an aspiring Software Engineer passionate about Quantum Computing, Artificial Intelligence, and innovative tech solutions. I enjoy exploring new technologies and solving complex problems.
+check my personal portfolio out at: [https://iamtanishqsaria.vercel.app]
 
 ## Skills
 
@@ -47,18 +48,10 @@ Welcome to my personal page! I'm **Tanishq Saria**, an aspiring Software Enginee
 
 ## Contact Information
 
-- **Address**: 171 Orchard Hill Dr, Amherst, MA 01003
-- **Phone**:
-  - +1 (512) 545-5681
-  - +971 (054) 747-0291
-- **Emails**:
-  - [iamtanishqsaria@gmail.com](mailto:iamtanishqsaria@gmail.com)
-  - [tsaria@umass.edu](mailto:tsaria@umass.edu)
-
 ## Social
 
 - **GitHub**: [illUMiNAl004](https://github.com/illUMiNAl004)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tanishq-s)
 
 ---
 
