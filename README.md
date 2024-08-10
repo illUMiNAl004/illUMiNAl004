@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 # About Me
 
 Welcome to my personal page! I'm **Tanishq Saria**, an aspiring Software Engineer passionate about Quantum Computing, Artificial Intelligence, and innovative tech solutions. I enjoy exploring new technologies and solving complex problems.
-check my personal portfolio out at: [https://iamtanishqsaria.vercel.app]
+check my personal portfolio out at: [Tanishq's Website](https://iamtanishqsaria.vercel.app)
 
 ## Skills
 
 <details>
-<summary>Click to expand</summary>
+<summary>Skills</summary>
 
 ### **Programming Languages**
 - Python
@@ -27,6 +27,7 @@ check my personal portfolio out at: [https://iamtanishqsaria.vercel.app]
 - Kotlin
 - HTML / CSS
 - Swift
+- JS
 
 ### **Technologies and Tools**
 - Android Development
@@ -35,6 +36,7 @@ check my personal portfolio out at: [https://iamtanishqsaria.vercel.app]
 - Data Science
 - AI and Machine Learning
 - iOS Development
+- IBM Mainframe
 
 ### **Interests**
 - Research
@@ -46,12 +48,10 @@ check my personal portfolio out at: [https://iamtanishqsaria.vercel.app]
 
 </details>
 
-## Contact Information
-
 ## Social
 
 - **GitHub**: [illUMiNAl004](https://github.com/illUMiNAl004)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tanishq-s)
+- **LinkedIn**: [Tanishq Saria](https://www.linkedin.com/in/tanishq-s)
 
 ---
 
