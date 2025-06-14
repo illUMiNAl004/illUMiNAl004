@@ -76,15 +76,4 @@
 - 🌏 Coffee enthusiast & traveler  
 - 🎨 Always up for UI/UX experiments
 
----
-
-![Snake animation](https://github.com/illUMiNAl004/illUMiNAl004/blob/output/github-contribution-grid-snake.svg)
-
-<details>
-  <summary>📜 Resume</summary>
-  <img src="https://github.com/illUMiNAl004/illUMiNAl004/raw/main/resume.png" alt="Resume" />
-</details>
-
----
-
 <!-- Feel free to add more sections: blog posts, certifications, more stats, etc. -->
