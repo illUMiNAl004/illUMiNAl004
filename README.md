@@ -1,7 +1,7 @@
 <!-- Profile README for Tanishq Saria (@illUMiNAl004) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanishq+Saria!;Software+Engineer+%7C+AI+Enthusiast;Building+creative+solutions+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanishq+Saria!;Software+Engineer+%7C+Tech Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
