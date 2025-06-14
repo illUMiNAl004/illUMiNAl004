@@ -39,7 +39,7 @@
 ### 💼 Experience
 
 - **Software Engineering Intern, SolarWinds**  
-  Own front-end components, drive cross-team UI/UX, and ship scalable features for observability platforms.
+  Understand, develop and work on User Experience in the Flagship Observability Platform.
 
 - **Teaching Assistant, UMass Amherst**  
   Lead Data Structures labs, clarify tough CS concepts, and enhance grading automation for 30+ students.
